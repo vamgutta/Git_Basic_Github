@@ -1,10 +1,10 @@
 #!/bin/bash
 
-select name in mark john tom ben
+select name in vamsi john tom ben
 do
 	case $name in
-	mark )
-	  echo mark selected
+	vamsi )
+	  echo vamsi selected
 	  ;;
 	john )
 	  echo john selected
