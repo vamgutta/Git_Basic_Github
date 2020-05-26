@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hallo Vamsi"
+echo -e "Hello DevOps,\nBye"
+echo -e "One\t\t\t\tTwo"
