@@ -1,0 +1,6 @@
+i am trying to commit through command mode from
+visual studio code
+Steps:
+View => Terminal
+
+updating for checking
