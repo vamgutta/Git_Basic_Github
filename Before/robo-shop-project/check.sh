@@ -10,4 +10,4 @@ N="\e[0m"
 D="\e[0m\e[2m"
 B="\e[0m\e[1m"
 
-echo -e "RB[ERROR]GB[SUCCESS]YB[WARNING]"
+echo -e "$RB[ERROR] $GB[SUCCESS] $YB[WARNING]"
