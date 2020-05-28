@@ -11,6 +11,9 @@ CB="\e[0m\e[1;36m"
 N="\e[0m"
 D="\e[0m\e[2m"
 B="\e[0m\e[1m"
+GIT_USER=vamgutta
+GIT_PASSWORD=Vamgutta830714
+
 
 LOG_FILE=/tmp/project.log 
 rm -f $LOG_FILE 
