@@ -1,7 +1,11 @@
 #!/bin/bash 
 
-## 
 ##
+
+GIT_USER=vamsi201988@gmail.com
+GIT_PASSWORD=Vg@830714
+
+
 RB="\e[0m\e[1;31m"
 GB="\e[0m\e[1;32m"
 YB="\e[0m\e[1;33m"
@@ -11,9 +15,6 @@ CB="\e[0m\e[1;36m"
 N="\e[0m"
 D="\e[0m\e[2m"
 B="\e[0m\e[1m"
-GIT_USER=vamsi201988@gmail.com
-GIT_PASSWORD=Vg@830714
-
 
 LOG_FILE=/tmp/project.log 
 rm -f $LOG_FILE 
