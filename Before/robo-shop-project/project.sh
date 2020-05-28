@@ -11,8 +11,8 @@ CB="\e[0m\e[1;36m"
 N="\e[0m"
 D="\e[0m\e[2m"
 B="\e[0m\e[1m"
-GIT_USER=vamgutta
-GIT_PASSWORD=Vamgutta830714
+GIT_USER=vamsi201988@gmail.com
+GIT_PASSWORD=Vg@830714
 
 
 LOG_FILE=/tmp/project.log 
